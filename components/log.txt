@@ -10954,3 +10954,875 @@ Value: 3092>
 [REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 6592>
 [INFO]: Writer 1 sent item: <Code: Code.CODE_SOURCE  Value: 5792>
 [REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 5792>
+[INFO]: Sending data to replicator sender
+[INFO]: Forwarding data to replicator receiver
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 2207>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SOURCE  Value: 2207>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_CUSTOM  Value: 6914>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 6914>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_SINGLENOE  Value: 9238>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 9238>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 6914>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 3222>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 9564>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 2923>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 9238>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_LIMITSET  Value: 9564>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 3245>
+ 3245>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_SOURCE  Value: 8952>
+ 8952>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 3496>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 5874>
+[INFO]: Sending data to Reader 4
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 3222>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 3245>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 3210>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 3210>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 9913>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 9913>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_ANALOG  Value: 7791>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 7791>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_CONSUMER  Value: 7373>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 7373>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SOURCE  Value: 2923>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 5874>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 6241>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 5616>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 4938>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 7345>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SOURCE  Value: 8952>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_ANALOG  Value: 7791>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_SOURCE  Value: 2476>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 2476>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_ANALOG  Value: 4955>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 4955>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 1978>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 1978>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_ANALOG  Value: 2933>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 2933>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 3210>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_ANALOG  Value: 4938>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 4884>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 4223>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_CUSTOM  Value: 8229>
+ 8229>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 9202>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 4516>
+[INFO]: Sending data to Reader 1
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_LIMITSET  Value: 6241>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 1978>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_ANALOG  Value: 1754>
+ 1754>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_CUSTOM  Value: 4326>
+ 4326>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 4018>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 4410>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_SOURCE  Value: 2040>
+ 2040>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SOURCE  Value: 2476>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 8229>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 9284>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 1034>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 4362>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 9167>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 6426>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_ANALOG  Value: 4884>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 4326>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 9558>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_ANALOG  Value: 5466>
+ 5466>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_SINGLENOE  Value: 9871>
+ 9871>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 4930>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 3640>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SOURCE  Value: 4516>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SOURCE  Value: 1034>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_CONSUMER  Value: 5129>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 5129>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_SOURCE  Value: 8633>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 8633>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_SINGLENOE  Value: 8542>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 8542>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_ANALOG  Value: 7803>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 7803>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_CUSTOM  Value: 5460>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 5460>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 4410>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_ANALOG  Value: 5466>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_DIGITAL  Value: 8716>
+ 8716>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 4638>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 4004>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 2701>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 3681>
+[INFO]: Sending data to Reader 4
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 9167>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SOURCE  Value: 8633>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 2676>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 2722>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_ANALOG  Value: 9009>
+ 9009>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 7545>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_ANALOG  Value: 1245>
+ 1245>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 4930>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_LIMITSET  Value: 4638>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 5442>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 3492>
+ 3492>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 1811>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 3949>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_SOURCE  Value: 3949>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 3139>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_ANALOG  Value: 7803>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 2722>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_CONSUMER  Value: 8128>
+ 8128>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_CONSUMER  Value: 3508>
+ 3508>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 7670>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 2616>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_SINGLENOE  Value: 2632>
+ 2632>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_DIGITAL  Value: 2701>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 3492>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 2158>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 6186>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 8474>
+ 8474>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 2905>
+ 2905>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_ANALOG  Value: 6846>
+ 6846>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 7545>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 3508>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 5975>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 7903>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 3830>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 2528>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 4352>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SOURCE  Value: 3949>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_ANALOG  Value: 6186>
+[INFO]: Sending data to Reader 3
+[INFO]: Writer 1 sent item: <Code: Code.CODE_CONSUMER  Value: 7207>
+ 7207>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_SOURCE  Value: 8174>
+ 8174>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 8709>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 2471>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 8357>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 2616>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 7903>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 1831>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 2942>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_ANALOG  Value: 8575>
+ 8575>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 2089>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 4704>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 2905>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SOURCE  Value: 8174>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_SOURCE  Value: 8470>
+ 8470>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_DIGITAL  Value: 3319>
+ 3319>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 3216>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 8958>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 6873>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 2528>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_ANALOG  Value: 2942>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 8332>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_LIMITSET  Value: 9129>
+ 9129>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_LIMITSET  Value: 6516>
+ 6516>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_CUSTOM  Value: 3738>
+ 3738>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 8450>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 2471>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_DIGITAL  Value: 3319>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 6306>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 4932>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 5434>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_SINGLENOE  Value: 1825>
+ 1825>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 7243>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_LIMITSET  Value: 2089>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_LIMITSET  Value: 9129>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_LIMITSET  Value: 1141>
+ 1141>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 9954>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 9954>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_CONSUMER  Value: 6615>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 6615>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_LIMITSET  Value: 3430>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 3430>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_DIGITAL  Value: 9231>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 9231>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_ANALOG  Value: 8958>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 4932>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 2143>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 2799>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 8141>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 6940>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 1191>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 3738>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 9954>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 2858>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 9526>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 3959>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 7599>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 6366>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 1825>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 2799>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 7221>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 9103>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_SOURCE  Value: 6050>
+ 6050>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 8857>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 5533>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_LIMITSET  Value: 3430>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 9526>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 5803>
+
+[INFO]: Writer 2 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 8819>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 8819>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 9103>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_LIMITSET  Value: 6399>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 6399>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 1481>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 8118>
+[INFO]: Sending data to Reader 2
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 7599>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 8819>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_CUSTOM  Value: 8588>
+ 8588>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_CUSTOM  Value: 6387>
+ 6387>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 8707>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 6438>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 5846>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_SINGLENOE  Value: 5846>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SOURCE  Value: 8857>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 8118>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 7698>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 9681>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_CUSTOM  Value: 9344>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 9344>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_LIMITSET  Value: 3080>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 3080>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_SOURCE  Value: 8916>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 8916>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_LIMITSET  Value: 6399>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 8707>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 6229>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_LIMITSET  Value: 9714>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 9714>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_SINGLENOE  Value: 2213>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 2213>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_ANALOG  Value: 4484>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 4484>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_SINGLENOE  Value: 5798>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 5798>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 8588>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_DIGITAL  Value: 9681>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_SOURCE  Value: 2753>
+ 2753>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_LIMITSET  Value: 8534>
+ 8534>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 8766>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 4065>
+ 4065>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_LIMITSET  Value: 2712>
+ 2712>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 5846>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_LIMITSET  Value: 9714>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 7454>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 3901>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 6584>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_DIGITAL  Value: 2882>
+ 2882>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 4329>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_LIMITSET  Value: 3080>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_LIMITSET  Value: 8534>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_DIGITAL  Value: 9903>
+ 9903>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_CONSUMER  Value: 2598>
+ 2598>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 1639>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 1278>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 7657>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_ANALOG  Value: 4484>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_ANALOG  Value: 3901>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_SINGLENOE  Value: 2541>
+ 2541>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 8847>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 2338>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_CUSTOM  Value: 2298>
+ 2298>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 3366>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 4065>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 2598>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 3038>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 8999>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_CONSUMER  Value: 8814>
+ 8814>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 1639>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 9999>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_SOURCE  Value: 9999>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_DIGITAL  Value: 2882>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 8847>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_SINGLENOE  Value: 8647>
+ 8647>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_ANALOG  Value: 2474>
+ 2474>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_CONSUMER  Value: 9668>
+ 9668>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 6371>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 7256>
+[INFO]: Sending data to Reader 1
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_LIMITSET  Value: 1278>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 8999>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 5806>
+ 5806>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 3836>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_ANALOG  Value: 6785>
+ 6785>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 4386>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_SOURCE  Value: 7882>
+ 7882>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 2298>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_ANALOG  Value: 2474>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 2273>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 2078>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_CUSTOM  Value: 2078>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 7806>
+ 7806>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 4975>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 1289>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_DIGITAL  Value: 1639>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 3836>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 7932>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_SOURCE  Value: 5451>
+ 5451>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 7919>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 4703>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 6471>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 6371>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 2078>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 1397>
+ 1397>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 8344>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_CONSUMER  Value: 1522>
+ 1522>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_ANALOG  Value: 5090>
+ 5090>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 4295>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 4386>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SOURCE  Value: 5451>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 2046>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 4221>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_DIGITAL  Value: 8635>
+ 8635>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 6619>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 3473>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 4975>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 8344>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 7633>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 5220>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 6291>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 3369>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 7325>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_LIMITSET  Value: 4703>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_ANALOG  Value: 4221>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_SINGLENOE  Value: 3687>
+ 3687>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_DIGITAL  Value: 5274>
+ 5274>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 9085>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 7763>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 1939>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_ANALOG  Value: 5090>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 5220>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_DIGITAL  Value: 2125>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 2125>
+>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_ANALOG  Value: 6062>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_DIGITAL  Value: 5274>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 9123>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 9123>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_SINGLENOE  Value: 6997>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 6997>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_SINGLENOE  Value: 8407>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 8407>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 3369>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_ANALOG  Value: 6062>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 3263>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 5682>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 9206>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 8604>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 4439>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 7763>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 8407>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 2182>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 4863>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_CUSTOM  Value: 3400>
+ 3400>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_ANALOG  Value: 9560>
+ 9560>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 5916>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 9123>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 9206>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 8492>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 6312>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_SOURCE  Value: 6312>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 5702>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 1112>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 3025>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 3263>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 4863>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 5064>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 8214>
+ 8214>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 4395>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 7566>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_LIMITSET  Value: 1210>
+ 1210>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_DIGITAL  Value: 4439>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SOURCE  Value: 6312>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 6521>
+ 6521>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 6105>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_ANALOG  Value: 6105>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 6967>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 4098>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_SOURCE  Value: 7237>
+ 7237>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_ANALOG  Value: 9560>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 8214>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 3770>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 1384>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 2136>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 8498>
+ 8498>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 4642>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 1112>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_ANALOG  Value: 6105>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 7091>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_SINGLENOE  Value: 6949>
+ 6949>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_SINGLENOE  Value: 4403>
+ 4403>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_DIGITAL  Value: 1171>
+ 1171>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 5561>
+[INFO]: Sending data to Reader 4
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 7566>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 1384>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_SINGLENOE  Value: 6537>
+ 6537>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_SOURCE  Value: 4456>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 4456>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 9008>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 4117>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 2642>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_CUSTOM  Value: 2642>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 4098>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 6949>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 6102>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 7188>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 1719>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_SOURCE  Value: 1719>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 6938>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_CONSUMER  Value: 4981>
+ 4981>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 8498>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SOURCE  Value: 4456>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_DIGITAL  Value: 1171>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_LIMITSET  Value: 7188>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_DIGITAL  Value: 4117>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 6938>
+[INFO]: Sending data to replicator sender
+[INFO]: Sending data to Reader 3
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 1746>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value:[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 1746>
+[INFO]: Sending data to Reader 2
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 8953>
+
+[INFO]: Writer 2 sent item: <Code: Code.CODE_CUSTOM  Value: 7981>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 7981>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value:[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_LIMITSET  Value: 8953>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_SINGLENOE  Value: 7121>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 3313>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 7121>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_LIMITSET  Value: 3694>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 3694>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 7981>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 4937>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_LIMITSET  Value: 8445>
+e: 3694>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 8445>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_CONSUMER  Value: 3284>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_CONSUMER  Value: 8899>
+ 3284>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 8899>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 9402>
+21>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_DIGITAL  Value: 9358>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_LIMITSET  Value: 8445>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_LIMITSET  Value: 1782>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 1782>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_SOURCE  Value: 1508>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 1508>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 9657>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 9657>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 9659>
+
+[INFO]: Writer 2 sent item: <Code: Code.CODE_LIMITSET  Value: 9774>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 9402>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 9774>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 7953>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 7953>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 9366>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 9366>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_ANALOG  Value: 8016>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 8016>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 3284>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 8027>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_CUSTOM  Value: 6758>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SOURCE  Value: 1508>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_CONSUMER  Value: 4068>
+758>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_CUSTOM  Value: 1095>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 4068>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_LIMITSET  Value: 3708>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 1095>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 2410>
+
+[INFO]: Writer 2 sent item: <Code: Code.CODE_CUSTOM  Value: 8062>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 7953>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 8062>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_SINGLENOE  Value: 9661>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 9661>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_DIGITAL  Value: 9502>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 9502>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_LIMITSET  Value: 6347>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 6347>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_CUSTOM  Value: 7493>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 9659>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_SINGLENOE  Value: 3589>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 4068>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 3589>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_LIMITSET  Value: 1801>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 1801>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_SOURCE  Value: 1562>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 1562>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_ANALOG  Value: 8760>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 8760>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_CONSUMER  Value: 9207>
+ 8016>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 9207>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 7616>
+9661>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 7616>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_CONSUMER  Value: 1320>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 1320>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_LIMITSET  Value: 1776>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 1776>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_ANALOG  Value: 2200>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 2200>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 5311>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_LIMITSET  Value: 1801>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_ANALOG  Value: 1585>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 1585>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_CUSTOM  Value: 5324>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 5324>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_LIMITSET  Value: 9463>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 9463>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_SINGLENOE  Value: 3858>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 3858>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 5679>
+>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 1320>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 9977>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_SOURCE  Value: 2770>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 2770>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_SOURCE  Value: 6623>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 6623>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_CUSTOM  Value: 7464>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 7464>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_ANALOG  Value: 8760>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 9885>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 5324>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 3343>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 3574>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_SINGLENOE  Value: 6708>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 6708>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 4687>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 4687>
+[INFO]: Sending data to Reader 1
+[INFO]: Writer 1 sent item: <Code: Code.CODE_ANALOG  Value: 1021>
+ 1021>
+
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SOURCE  Value: 2770>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_DIGITAL  Value: 4942>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 4942>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_ANALOG  Value: 4250>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 4250>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 5690>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 5690>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_LIMITSET  Value: 3891>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 3891>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 2774>
+>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_CUSTOM  Value: 4855>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 3574>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 4855>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_CUSTOM  Value: 7631>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 7631>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_ANALOG  Value: 4274>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_LIMITSET  Value: 3923>
+274>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 3923>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_LIMITSET  Value: 3910>
+ 7464>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 3910>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_ANALOG  Value: 4250>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 8372>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_SOURCE  Value: 6696>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 6696>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_DIGITAL  Value: 6527>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 6527>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_ANALOG  Value: 4696>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 4696>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 9747>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 7631>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 7354>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_ANALOG  Value: 9363>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 9363>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_CUSTOM  Value: 6286>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 6286>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_CONSUMER  Value: 8781>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 8781>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 3693>
+
+[INFO]: Writer 2 sent item: <Code: Code.CODE_CUSTOM  Value: 5690>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 5690>
+
+[INFO]: Writer 3 sent item: <Code: Code.CODE_ANALOG  Value: 7433>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 7433>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_SINGLENOE  Value: 4292>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 4292>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_CONSUMER  Value: 9278>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 9278>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 5859>
+3>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 6525>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 6525>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 2504>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 2504>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_CUSTOM  Value: 3601>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 3601>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_SOURCE  Value: 1016>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 1016>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_ANALOG  Value: 8411>
+e: 4696>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 8411>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_LIMITSET  Value: 7715>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 7715>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_CUSTOM  Value: 7323>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 7323>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_CONSUMER  Value: 1857>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 1857>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_CUSTOM  Value: 9572>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 9572>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 8781>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 2504>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 8919>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 5518>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 3678>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 8871>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 1291>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 9278>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 7323>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_SOURCE  Value: 1915>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 1915>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_LIMITSET  Value: 3372>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 3372>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_SINGLENOE  Value: 7837>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 7837>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_SOURCE  Value: 6060>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 6060>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_DIGITAL  Value: 7564>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 7564>
+[INFO]: Sending data to Reader 4
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SOURCE  Value: 1016>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_LIMITSET  Value: 5518>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 2942>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_ANALOG  Value: 5148>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 5148>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_SOURCE  Value: 3218>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 3218>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 8280>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_SOURCE  Value: 3917>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 3917>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 9572>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_LIMITSET  Value: 3372>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 4555>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_CUSTOM  Value: 6189>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 6189>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 6071>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 5279>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 5535>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 8871>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_ANALOG  Value: 5148>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 2643>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 6384>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_ANALOG  Value: 6384>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 8876>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 9057>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 6059>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SOURCE  Value: 6060>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 6189>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_SOURCE  Value: 3539>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 3539>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_SOURCE  Value: 9648>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 9648>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_DIGITAL  Value: 3170>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 3170>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_SINGLENOE  Value: 1143>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 1143>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_SINGLENOE  Value: 9461>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 9461>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SOURCE  Value: 8280>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_ANALOG  Value: 6384>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 2571>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_CONSUMER  Value: 4686>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 4686>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_SINGLENOE  Value: 4366>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 4366>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_SOURCE  Value: 8597>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 8597>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 1561>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 5279>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SOURCE  Value: 9648>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_DIGITAL  Value: 5611>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 5611>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_SOURCE  Value: 4692>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 4692>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_CONSUMER  Value: 6951>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 6951>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_DIGITAL  Value: 1425>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 1425>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_ANALOG  Value: 5644>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 5644>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SOURCE  Value: 9057>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 4686>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 5723>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_DIGITAL  Value: 6448>
+ 6448>
+[INFO]: Writer 3 sent item: <Code: Code.CODE_MULTIPLENODE  Value: 6510>
+ 6510>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 7083>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 5422>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 1143>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SOURCE  Value: 4692>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 8091>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 5650>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 1547>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_CONSUMER  Value: 6798>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 6798>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_LIMITSET  Value: 7559>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 7559>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SOURCE  Value: 8597>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_DIGITAL  Value: 6448>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 8101>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_LIMITSET  Value: 9769>
+ 9769>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 1886>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 1420>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 4385>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_DIGITAL  Value: 1425>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_LIMITSET  Value: 5650>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_ANALOG  Value: 7463>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 7463>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 9274>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 1554>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_SOURCE  Value: 5715>
+ 5715>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 1867>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_ANALOG  Value: 7083>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_LIMITSET  Value: 9769>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 4145>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_SINGLENOE  Value: 4663>
+ 4663>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 6915>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 8605>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 9236>
+[INFO]: Sending data to Reader 3
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 6798>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_LIMITSET  Value: 9274>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_MULTIPLENODE  Value: 5361>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 6552>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 5187>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 7332>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 4829>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 1420>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 4663>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_LIMITSET  Value: 2823>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 2823>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 3653>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 5686>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_DIGITAL  Value: 9859>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 9859>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 5948>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SOURCE  Value: 5715>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 6552>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 6513>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 9954>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 4976>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_CONSUMER  Value: 9737>
+ 9737>
+[INFO]: Writer 5 sent item: <Code: Code.CODE_LIMITSET  Value: 5181>
+ 5181>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 8605>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 3653>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 1666>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_LIMITSET  Value: 2016>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 2016>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_DIGITAL  Value: 3266>
+[INFO]: Writer 4 sent item: <Code: Code.CODE_DIGITAL  Value: 5322>
+ 5322>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 7332>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SOURCE  Value: 9954>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CONSUMER  Value: 1869>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 6402>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 8576>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_DIGITAL  Value: 9859>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_LIMITSET  Value: 2016>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_LIMITSET  Value: 4952>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_ANALOG  Value: 8393>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 8393>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CONSUMER  Value: 9737>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SINGLENOE  Value: 6402>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_CUSTOM  Value: 9135>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_CUSTOM  Value: 9135>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_ANALOG  Value: 2738>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 2738>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_DIGITAL  Value: 5322>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_CUSTOM  Value: 9135>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_ANALOG  Value: 9277>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_ANALOG  Value: 9277>
+[INFO]: Writer 2 sent item: <Code: Code.CODE_SOURCE  Value: 1068>
+[REPLICATOR SENDER]: Received item: <Code: Code.CODE_SOURCE  Value: 1068>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_LIMITSET  Value: 4952>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_ANALOG  Value: 9277>
+[INFO]: Writer 1 sent item: <Code: Code.CODE_ANALOG  Value: 4960>
+ 4960>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_ANALOG  Value: 2738>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_ANALOG  Value: 4960>
+[REPLICATOR RECEIVER]: Received item: <Code: Code.CODE_SOURCE  Value: 1068>
+[INFO]: Sending data to Reader 2
+[INFO]: Sending data to Reader 1
+[INFO]: Sending data to Reader 3
+[INFO]: Sending data to Reader 4

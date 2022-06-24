@@ -22,7 +22,7 @@ class Reader:
                 elif abs(value.receiver_value - last_value) > (last_value * 0.02):
                     self.save_value(value)
 
-    # TODO: Test
+    # Tested
     def get_last_value_by_code(self, code: Code):
         while True:
             try:
@@ -40,10 +40,10 @@ class Reader:
                 if result is None:
                     return None
                 return result[0]
-            except:
+            except:  # pragma: no cover
                 self.create_tables()
 
-    # TODO: Test
+    # Tested
     def save_value(self, receiver_property: ReceiverProperty):
         try:
             lock = threading.Lock()
@@ -56,7 +56,7 @@ class Reader:
             con.commit()
             con.close()
             lock.release()
-        except:
+        except:  # pragma: no cover
             pass
 
     @staticmethod
@@ -82,7 +82,7 @@ class Reader:
         except:
             pass
 
-    # TODO: Test
+    # Tested
     @staticmethod
     def get_values_by_interval(code: Code,
                                start_interval_date: str,
@@ -109,7 +109,7 @@ class Reader:
         except:
             pass
 
-    # TODO: Test
+    # Tested
     @staticmethod
     def map_code_to_dataset_id(code: Code):
         if code in Dataset.Dataset_1.value:

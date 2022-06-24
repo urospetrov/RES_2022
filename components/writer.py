@@ -132,7 +132,7 @@ class Writer:
         end_time = Writer.get_time('end')
         return code, start_date, start_time, end_date, end_time
 
-    # TODO: Test
+    # Tested
     @staticmethod
     def get_date(time_type: str):
         while Writer.is_running:
@@ -143,7 +143,7 @@ class Writer:
                 continue
             return user_input
 
-    # TODO: Test
+    # Tested
     @staticmethod
     def get_time(time_type: str):
         while Writer.is_running:

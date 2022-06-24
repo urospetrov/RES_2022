@@ -108,7 +108,7 @@ class ReplicatorReceiver:
                 print(f'[INFO]: Sending data to {reader}')
                 cd.historical_collection.receiver_properties.clear()
 
-    # TODO: Test
+    # Tested
     @staticmethod
     def map_code_to_dataset(code: Code):
         if code in Dataset.Dataset_1.value:
@@ -120,7 +120,7 @@ class ReplicatorReceiver:
         elif code in Dataset.Dataset_4.value:
             return Dataset.Dataset_4
 
-    # TODO: Test
+    # Tested
     @staticmethod
     def map_dataset_to_dataset_id(dataset: Dataset):
         if dataset == Dataset.Dataset_1:
@@ -140,5 +140,5 @@ class ReplicatorReceiver:
         exit()
 
 
-if __name__ == '__main__':
+if __name__ == '__main__':  # pragma: no cover
     ReplicatorReceiver.start()
